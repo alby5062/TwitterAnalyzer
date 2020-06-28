@@ -1,0 +1,8 @@
+---- Count word frequency ---- 
+ 
+angry:3
+keyboard:2
+really:1
+offend:1
+back:1
+use:1
